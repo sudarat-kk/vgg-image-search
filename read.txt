@@ -1,0 +1,9 @@
+activate py(venv)
+venv\Scripts\activate
+
+out  (venv)
+deactivate
+
+run py 
+python run.py
+
